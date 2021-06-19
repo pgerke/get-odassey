@@ -32,7 +32,7 @@ You can use the following, free OData sample services anonymously to check out t
   
 ## Installation ##
 
-You can install Odassey by directly downloading an installer for your platform or by using a package manager.
+You can install Odassey by directly downloading an installer for your platform or by using a package manager. Once installed Odassey automatically informs you about new releases.
 
 ### Package Manager ###
 
@@ -46,21 +46,24 @@ winget install odassey
 
 Soon, you'll also be able to install the drydock version. 👀
 
-#### macOS - Homebrew: Coming soon! 👀 ####
-#### Linux - Snap: Coming soon! 👀 ####
 
 ### Installer ###
 
-You can find the installers at http://files.odassey.de/stable and http://files.odassey.de/develop respectively for the preview installers.
+You can find the installers for all platforms and releases at our releases page over at GitHub at https://github.com/pgerke/get-odassey/releases.
     
 ## Roadmap ##
 
 - Layout Persistence
-- Add more authentication options
+- Add more authentication options: OAuth1 and OAuth2
 - Data Queries
+- Additional package managers: Homebrew, Snap
   
 ## Feedback & Support ##
 
-If you have any feedback, email support@odassey.de or use the feedback from integrated into Odassey. ![Feedback Form](images/screenshots/feedback_button.jpg) For support you can also use the [Odassey Help Center](https://pgerke.atlassian.net/servicedesk/customer/portal/1). You can access the help center by selecting the corresponding link in the support menu. ![Help Center](images/screenshots/help_center.jpg)
+If you have any feedback, email support@odassey.de or use the feedback from integrated into Odassey.
+![Feedback Form](images/screenshots/feedback_button.jpg)
+For support you can also use our [GitHub repository](https://github.com/pgerke/get-odassey) the [Odassey Help Center](https://pgerke.atlassian.net/servicedesk/customer/portal/1).
+You can access the help center by selecting the corresponding link in the support menu.
+![Help Center](images/screenshots/help_center.jpg)
 
 Made with ❤️ by [Philip Gerke](https://github.com/pgerke)
