@@ -56,9 +56,9 @@ You can find the installers for all platforms and releases at our releases page 
 ## Roadmap
 
 - Native apps for Android, iOS, iPadOS and macOS
+- App Store deployment
 - Query code generation
 - Add more authentication options: OAuth1 and OAuth2
-- App Store support
 - Additional package managers: Homebrew, Snap
 
 ## Feedback & Support
