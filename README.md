@@ -1,4 +1,5 @@
-# ![Odassey](images/odassey.svg) #
+# ![Odassey](images/odassey.svg)
+
 _Make sure your journey on the OData ocean doesn't become an odyssey with Odassey_
 
 ## Features
@@ -6,8 +7,8 @@ _Make sure your journey on the OData ocean doesn't become an odyssey with Odasse
 - Browse through the data for your OData v4 endpoints
 - Conveniently show the metadata for a given endpoint
 - Cross platform support: Runs on Windows 10, macOS and Linux
+- Supports mobile platforms: iPad, Android tablets as PWA and native application
 - Online mode: Run in browser without installation
-- Supports mobile platforms as PWA: iPad, Android tablets
 - Powerful, persistent layout options
 
 ## Demo
@@ -32,7 +33,7 @@ _Please note that Odassey is neither the owner of the aforementioned services no
 ![Detail View](images/screenshots/detail.jpg)
 ![Layout Options](images/screenshots/layout.jpg)
 ![Drag and Drop Layout](images/screenshots/dragndrop.jpg)
-  
+
 ## Installation
 
 You can install Odassey by directly downloading an installer for your platform or by using a package manager. Once installed Odassey automatically informs you about new releases.
@@ -55,7 +56,7 @@ You can find the installers for all platforms and releases at our releases page 
 
 ## Roadmap
 
-- Native apps for Android, iOS, iPadOS and macOS
+- Native apps for Android
 - App Store deployment
 - Query code generation
 - Add more authentication options: OAuth1 and OAuth2
