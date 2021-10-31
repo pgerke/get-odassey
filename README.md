@@ -70,4 +70,8 @@ For support you can also use our [GitHub repository](https://github.com/pgerke/g
 You can access the help center by selecting the corresponding link in the support menu.
 ![Help Center](images/screenshots/help_center.jpg)
 
+## Privacy Policy
+
+Long story short: As an application Odassey does not collect data of any kind with the exception of server logs. You may create an account at the Odassey Help Center, but it is not necessary to do so in order to use the application. Please check out our detailed [Privacy Policy](https://privacy.philipgerke.com/) for details.
+
 Made with ❤️ by [Philip Gerke](https://github.com/pgerke)
