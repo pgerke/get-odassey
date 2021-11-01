@@ -66,7 +66,7 @@ You can find the installers for all platforms and releases at our releases page 
 
 If you have any feedback, email support@odassey.de or use the feedback from integrated into Odassey.
 ![Feedback Form](images/screenshots/feedback_button.jpg)
-For support you can also use our [GitHub repository](https://github.com/pgerke/get-odassey) the [Odassey Help Center](https://pgerke.atlassian.net/servicedesk/customer/portal/1).
+For support you can also use our [GitHub repository](https://github.com/pgerke/get-odassey) the [Odassey Help Center](http://helpcenter.odassey.de).
 You can access the help center by selecting the corresponding link in the support menu.
 ![Help Center](images/screenshots/help_center.jpg)
 
