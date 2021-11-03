@@ -1,6 +1,9 @@
-# ![Odassey](images/odassey.svg)
+# ![Odassey](images/logo.svg)
 
 _Make sure your journey on the OData ocean doesn't become an odyssey with Odassey_
+
+![App Store](images/AppStore.svg)
+![Mac App Store](images/MacAppStore.svg)
 
 ## Features
 
