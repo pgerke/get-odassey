@@ -10,7 +10,7 @@ _Make sure your journey on the OData ocean doesn't become an odyssey with Odasse
 - Browse through the data for your OData v4 endpoints
 - Conveniently show the metadata for a given endpoint
 - Cross platform support: Runs on Windows 10, macOS and Linux
-- Supports mobile platforms: iPad, Android tablets as PWA and native application
+- Also supports mobile platforms: iPad and Android tablets as PWA or native app,
 - Online mode: Run in browser without installation
 - Powerful, persistent layout options
 
@@ -67,7 +67,7 @@ You can find the installers for all platforms and releases at our releases page 
 
 ## Feedback & Support
 
-If you have any feedback, email support@odassey.de or use the feedback from integrated into Odassey.
+If you have any feedback, or want to report an issue you can write us an [email](mailto:support@odassey.de) or use the feedback from integrated into Odassey.
 ![Feedback Form](images/screenshots/feedback_button.jpg)
 For support you can also use our [GitHub repository](https://github.com/pgerke/get-odassey) the [Odassey Help Center](http://helpcenter.odassey.de).
 You can access the help center by selecting the corresponding link in the support menu.
