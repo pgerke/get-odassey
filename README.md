@@ -67,14 +67,10 @@ You can find the installers for all platforms and releases at our releases page 
 
 ## Feedback & Support
 
-If you have any feedback, or want to report an issue you can write us an [email](mailto:support@odassey.de) or use the feedback from integrated into Odassey.
-![Feedback Form](images/screenshots/feedback_button.jpg)
-For support you can also use our [GitHub repository](https://github.com/pgerke/get-odassey) the [Odassey Help Center](http://helpcenter.odassey.de).
-You can access the help center by selecting the corresponding link in the support menu.
-![Help Center](images/screenshots/help_center.jpg)
+If you have any feedback or want to report an issue you can use our [GitHub repository](https://github.com/pgerke/get-odassey) or write us an [email](mailto:support@philipgerke.com).
 
 ## Privacy Policy
 
-Long story short: As an application Odassey does not collect data of any kind with the exception of server logs. You may create an account at the Odassey Help Center, but it is not necessary to do so in order to use the application. Please check out our detailed [Privacy Policy](https://privacy.philipgerke.com/) for details.
+Long story short: As an application Odassey does not collect data of any kind with the exception of server logs. Please check out our [Privacy Policy](https://privacy.philipgerke.com/) for details.
 
 Made with ❤️ by [Philip Gerke](https://github.com/pgerke)
